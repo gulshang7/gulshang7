@@ -30,9 +30,13 @@
 
 [The Ultimate SQL and MySQL Bootcamp](https://www.udemy.com/certificate/UC-b1e249fb-be9f-4216-baf6-9b79d18ef39a/) by Udemy
 
+[Python Project for Data Science](https://coursera.org/verify/2ARCHADYUV8Z) by IBM
+
 [C++ Programming - From Beginner to Beyond](http://ude.my/UC-359e792c-291d-45db-a4f5-99ad77f44b80) by Udemy
 
-### Some of my featured projects❓ 👨‍💻 🛰️
+[Python Project for Data Science](https://coursera.org/verify/S9FRQSBNDQZZ) by IBM
+
+### Some of My Featured Projects❓ 👨‍💻 🛰️
 
 [ATLIQ Sales Insight](https://github.com/gulshang7/ATLIQ_Sales_Insight_Data_Analysis_using_SQL_and_Tableau)
 
