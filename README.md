@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gulshangedam786@gmail.com**
 
-- 🤝 Connect me on [linkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/)
+- 🤝 Connect me on **[linkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,15 +26,15 @@
 
 ### My Certifications 📜 🎓 ✔️
 
-[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/7VT98PG2P4R8) by Google
+[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/7VT98PG2P4R8) by **Google
 
-[The Ultimate SQL and MySQL Bootcamp](https://www.udemy.com/certificate/UC-b1e249fb-be9f-4216-baf6-9b79d18ef39a/) by Udemy
+[The Ultimate SQL and MySQL Bootcamp](https://www.udemy.com/certificate/UC-b1e249fb-be9f-4216-baf6-9b79d18ef39a/) by **Udemy
 
-[Python Project for Data Science](https://coursera.org/verify/2ARCHADYUV8Z) by IBM
+[Python Project for Data Science](https://coursera.org/verify/2ARCHADYUV8Z) by **IBM
 
-[C++ Programming - From Beginner to Beyond](http://ude.my/UC-359e792c-291d-45db-a4f5-99ad77f44b80) by Udemy
+[C++ Programming - From Beginner to Beyond](http://ude.my/UC-359e792c-291d-45db-a4f5-99ad77f44b80) by **Udemy
 
-[Python Project for Data Science](https://coursera.org/verify/S9FRQSBNDQZZ) by IBM
+[Python Project for Data Science](https://coursera.org/verify/S9FRQSBNDQZZ) by **IBM
 
 ### Some of My Featured Projects❓ 👨‍💻 🛰️
 
