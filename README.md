@@ -18,10 +18,10 @@
 ##
 
 ### 🧮 Skill Set:
-- 📈 Tableau
+- 🐍 Python
 - ⌨️ SQL
 - 🔢 Excel & Excel VBA
-- 🐍 Python
+- 📈 Tableau 
 - 🎯 R programming
 - 📊 C & C++
 
