@@ -24,6 +24,7 @@
 - 📈 Tableau 
 - 🎯 R programming
 - 📊 C & C++
+- 📝 MySQL
 
 ##
 
