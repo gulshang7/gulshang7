@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 👋 I'm Gulshan Gedam</h1>
-<h3 align="center">A self-taught Data Analyst Enthusiast from India.</h3>
+<h3 align="center">A self-taught Enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulshang7&label=Profile%20views&color=0e75b6&style=flat" alt="gulshang7" /> </p>
 
